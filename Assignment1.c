@@ -45,25 +45,25 @@ int main()
     // printf("mg to kg = %f\n", weight / 1000000);
     // return 0;
 
-    // 7]Write a programms that solve the given expressions:
-    // x=2, y=3.5, r=1.5, h=10
-    int x = 2;
-    float y = 3.5;
-    float r = 1.5;
-    int h = 10;
-    // [a]
-    printf("x+y * x/y = %.1f\n", x + y * x / y);
-    // [b]
-    printf("p = %.1f\n", pow(x, 3) - pow(y, 3));
-    // [c]
-    printf("q = %.1f\n", x * pow(y, 2));
-    // [d]
-    printf("t = %.1f\n", pow(x, 2) - pow(y, 2) + 2 * x * y);
-    // [e]
-    printf("s =  %.1f\n", y * ((pow(x, 2)) - 1));
-    // [f]
-    printf("a = %.1f\n", 2 * 3.24 * r);
-    // [g]
-    printf("z = %.1f", 4 / 3 * 3.14 * r * r * h);
-    return 0;
+    // // 7]Write a programms that solve the given expressions:
+    // // x=2, y=3.5, r=1.5, h=10
+    // int x = 2;
+    // float y = 3.5;
+    // float r = 1.5;
+    // int h = 10;
+    // // [a]
+    // printf("x+y * x/y = %.1f\n", x + y * x / y);
+    // // [b]
+    // printf("p = %.1f\n", pow(x, 3) - pow(y, 3));
+    // // [c]
+    // printf("q = %.1f\n", x * pow(y, 2));
+    // // [d]
+    // printf("t = %.1f\n", pow(x, 2) - pow(y, 2) + 2 * x * y);
+    // // [e]
+    // printf("s =  %.1f\n", y * ((pow(x, 2)) - 1));
+    // // [f]
+    // printf("a = %.1f\n", 2 * 3.24 * r);
+    // // [g]
+    // printf("z = %.1f", 4 / 3 * 3.14 * r * r * h);
+    // return 0;
 }
